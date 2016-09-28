@@ -29,8 +29,8 @@ public class CircleApp {
 				int counter = circleN.getObjectCount();
 				System.out.println("Goodbye.  You created " + counter + " Circle object(s).");
 				choice = input.next();
-			}
-		} // main
+			}//2nd while loop closes
+		} // 1st while loop closes
 
-	}
+	}//main
 }
